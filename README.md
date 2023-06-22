@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Vikram Singh
+- 👀 I’m interested in full satck development
+- 🌱 I’m currently learning python library django
+- 💞️ I’m looking to collaborate on all type of development related to python backend
+- 📫 How to reach me whatsapp me on 7049872442 or mail me on mrsingh2996@gmail.com
+- 🧑‍💻 **I'm also looking for a job.** My previous profile was mysql database developer.
+- 💻 My skills are mysql, python (flask and basic django), html5, css3, basic JS and basic AWS.
+- 🏫 Currently I'm working on build a learning plateform i.e. AI based customized learning plateform.
+- 🕸️ I've also build a web app thesocialconnect.in and other automation scripts for google sheets.
